@@ -6,7 +6,7 @@
 trigger:
   branches:
     include: 
-      - aaa
+      - ccc
     exclude:
       - zzz
 #- main
