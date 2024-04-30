@@ -6,7 +6,7 @@
 trigger:
   branches:
     include: 
-      - zzz
+      - aaa
   paths:
     include: 
       - README.md
