@@ -6,9 +6,11 @@
 trigger:
   branches:
     include: 
-      - zzz
-    exclude:
-      - zzz
+      - main
+  paths:
+    include: 
+      - README.md
+    
 #- main
 
 pool:
