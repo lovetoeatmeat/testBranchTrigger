@@ -9,6 +9,9 @@ trigger:
       - aaa
     exclude:
       - zzz
+  paths:
+    include: 
+      - README.md
 #- main
 
 pool:
